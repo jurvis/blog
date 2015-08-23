@@ -18,11 +18,12 @@ Millions of Apple Watch articles come out today, but I just wanted to quickly pe
 ![](https://medium2.global.ssl.fastly.net/max/2484/1*UvxsmXwlBtB2eE7niWukDQ.png)
 
 Back in September when the Apple Watch was announced, I [expressed](http://jurvis.svbtle.com/letters-from-9914) how excited I was for the possibilities of the Apple Watch to help influence the world of medicine. Today Apple announced ResearchKit — an *open source (yes, by Apple Inc.) *framework geared towards the purpose of making conducting medical research convenient.
+
 > We have handed out 60,000 of those [research] letters, those 60,000 letters have netted 305 women
-
-Traditional medical research is usually conducted through the distribution of flyers/letters, with this new framework researches can now upscale their medical research by collecting more data easily with little or not effort.
-
-The first apps out for ResearchKit so far cover the following: asthma, Parkinson’s disease, breast cancer and cardiovascular diseases.
+>
+>Traditional medical research is usually conducted through the distribution of flyers/letters, with this new framework researches can now upscale their medical research by collecting more data easily with little or not effort.
+>
+>The first apps out for ResearchKit so far cover the following: asthma, Parkinson’s disease, breast cancer and cardiovascular diseases.
 
 ###Apple Watch
 
