@@ -12,6 +12,7 @@
 .page-title,
 .post-title,
 .post-title a {
+  font-family: "futura-pt", sans-serif;
   color: #303030;
 }
 .page-title,
@@ -27,7 +28,6 @@
   color: #9a9a9a;
 }
 
-
 // Related posts
 .related {
   padding-top: 2rem;
@@ -40,6 +40,8 @@
   list-style: none;
 
   h3 {
+    font-family: "futura-pt";
+    font-size: 20px;
     margin-top: 0;
   }
 
