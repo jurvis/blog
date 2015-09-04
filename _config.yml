@@ -10,6 +10,7 @@ tagline:             Portable Musings
 url:                 localhost
 paginate:            1
 baseurl:             ""
+cdn:                 http://127.0.0.1:4000
 
 # Assets
 #

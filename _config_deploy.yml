@@ -10,6 +10,7 @@ tagline:             Portable Musings
 url:                 http://jurvis.co/
 paginate:            1
 baseurl:             "http://blog.jurvis.co"
+cdn: http://cdn.jurvis.co
 
 # Assets
 #

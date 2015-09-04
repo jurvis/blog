@@ -9,7 +9,7 @@ My friend and I were having coffee the other day and discussed about newer apps 
 
 The discussion then went on to the apps that have stayed, from when we first played with the iPhone until Android joining the market. WhatsApp, this one app stuck out the most for us - it's not /fantastic/ with any cool design metaphors or fancy interaction paradigms like Facebook Paper, but it has always been there.
 
-[![eskimon_2014-Nov-20.png](https://d23f6h5jpj26xu.cloudfront.net/pkg4lf4lqliwzw_small.png)](http://img.svbtle.com/pkg4lf4lqliwzw.png)
+![eskimon_2014-Nov-20.png]({{ "public/images/whatsapp-versus-others.png" | cdn }})
 
 The design for WhatsApp has remained the same, there wasn't too many design changes. Part of it's success was probably it fixates it's improvements into backends to keep downtime as low as [1%](http://qz.com/178897/a-hand-written-note-explains-the-radical-purity-driving-whatsapps-success/). BBM did a similar thing even before WhatsApp was around, but it got left behind the same way Microsoft got left behind in the mobile business - failure to anticipate changing tides.
 

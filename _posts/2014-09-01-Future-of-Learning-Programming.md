@@ -14,4 +14,4 @@ In the future, the programmer that strives to care about people and their proble
 
 All of us should work towards that.
 
-![apple-sydney-store]({{site.url}}/assets/images/apple-sydney-store.jpg)
+![apple-sydney-store]({{ "public/images/apple-sydney-store.jpg" | cdn }})

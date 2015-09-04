@@ -14,4 +14,4 @@ The smallest decision of taking control of *your circumstance* goes a long way i
 
 Take control of things, and it will only end the way you want it.
 
-[![41620020.JPG](https://d23f6h5jpj26xu.cloudfront.net/jrpbnzzeqsyvg_small.jpg)](http://img.svbtle.com/jrpbnzzeqsyvg.jpg)
+![41620020.JPG]({{ "public/images/taking-ownership.jpg" | cdn}})
