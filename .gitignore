@@ -40,6 +40,7 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+public/images
 
 # Sensitive Information
 s3_website.yml
