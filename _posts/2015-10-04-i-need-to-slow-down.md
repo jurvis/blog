@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Need to Slow Down"
+thumbnail: /public/images/IMG_0064.jpg
 date: 2015-10-04 09:55:00
 ---
 

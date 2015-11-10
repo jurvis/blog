@@ -5,12 +5,12 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jurvis Tan
+title:               Jurvis Tan's Blog
 tagline:             Portable Musings
 url:                 http://jurvis.co/
 paginate:            1
 baseurl:             "http://blog.jurvis.co"
-cdn: http://cdn.jurvis.co
+cdn: 				http://cdn.jurvis.co
 
 # Assets
 #
@@ -29,3 +29,7 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+# OpenGraph
+avatar:	public/images/profile_med.jpg
+locale: en_US

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do You Have A Life?"
+thumbnail: /public/images/buuuk_desk.jpg
 date: 2015-09-08 19:20:00
 ---
 Just last week, the holidays have begun. To many people, this is a great time, because they'd get a break from the stress of school; to finally enjoy their lives without concrete societal responsibilities.

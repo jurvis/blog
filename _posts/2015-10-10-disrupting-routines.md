@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Disrupting Routines"
+thumbnail: /public/images/mtb.png
 date: 2015-10-10 09:31:00
 ---
 
